@@ -24,7 +24,7 @@ In this dashboard, I explored key insights from Swiggy orders, including:
 - Clean and user-friendly layout
 
 ## 📸 Dashboard Preview
-*(Add a screenshot of your dashboard here)*
+*[https://github.com/sathishsathish31/Swiggy-Dashboard/blob/main/Screenshot%202025-05-01%20120053.png]*
 
 ## 🚀 Why I Built This
 As part of my data analyst journey, I wanted to work on a real-life dataset and build something meaningful, visual, and useful. This project helped me apply my Power BI skills and learn how to tell stories with data.
